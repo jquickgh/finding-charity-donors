@@ -5,4 +5,4 @@
  - **Algorithm: Gradient Boosting Classifier**
  - **Performance Metric: fbeta_score**
  - **Stack: Python, SKlearn**
-<img src="https://github.com/jquickgh/charity.jpg" width="600">
+<img src="./charity.jpg" width="600">
